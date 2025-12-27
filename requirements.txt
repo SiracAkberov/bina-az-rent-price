@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+beautifulsoup4
+selenium
+scikit-learn
+xgboost
+matplotlib
+seaborn
+fastapi
+uvicorn
+joblib
+webdriver-manager
