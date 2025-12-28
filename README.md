@@ -14,7 +14,7 @@ bina_az_ml/
 │   └── train.ipynb                # Model training notebook
 ├── notebooks/analysis.ipynb       # EDA & feature engineering
 ├── scraping/scrape_bina.ipynb     # Web scraping notebook
-├── venv/                          # Virtual environment
+├── venv/
 ├── README.md                      # Project documentation
 └── requirements.txt               # Required Python packages
 ```
