@@ -2,7 +2,8 @@ Bina.az Rent Price Prediction
 
 Machine Learning Internship Project – This project collects rental apartment listings from Bina.az, cleans and preprocesses the data, and predicts monthly rental prices based on apartment features using Machine Learning regression models.
 
-## Project Structure
+Project Structure
+```text
 bina_az_ml/
 ├── data/
 │   ├── raw/bina_az_raw.csv        # Raw scraped data
@@ -13,9 +14,10 @@ bina_az_ml/
 │   └── train.ipynb                # Model training notebook
 ├── notebooks/analysis.ipynb       # EDA & feature engineering
 ├── scraping/scrape_bina.ipynb     # Web scraping notebook
-├── venv/
+├── venv/                          # Virtual environment
 ├── README.md                      # Project documentation
 └── requirements.txt               # Required Python packages
+```
 
 Project Overview
 
